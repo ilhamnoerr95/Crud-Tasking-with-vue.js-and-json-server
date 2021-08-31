@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "ayam goreng",
+      "day": "senin, 30 agustus 2021",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "apa kek",
+      "day": "senin, 32 agustus 2021",
+      "reminder": true
+    },
+    {
+      "text": "ayam goreng",
+      "day": "30 agustus 2021",
+      "reminder": true,
+      "id": 47931
+    }
+  ]
+}
